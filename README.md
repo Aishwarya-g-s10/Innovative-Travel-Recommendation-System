@@ -1,4 +1,4 @@
-******Tourist Attraction Recommender**********
+********Tourist Attraction Recommender********
 
 ****Overview****
 
